@@ -12,6 +12,8 @@ Rom List Motorola G8 Dinamic Family
 | OmniROM            	| 10.0             	| Vache         	| Outdated 	| Link is dead     	| No        	|
 | Project Sakura     	| 10.0             	| William       	| Outdated 	| [ Google Drive  ](https://drive.google.com/drive/folders/1E_F5TlsDWF70N-TzHQz3HLXDn09yKPXB)| ?         	|
 | Mokee Os           	| 10.0             	| William       	| Outdated 	| [ Google Drive  ](https://drive.google.com/drive/folders/1MIznbxeWk0PZGMeqD0ZrGVtjYN_Zuizr)   	| ?         	|
+| EvoX           	    | 10.0             	| William       	| Outdated 	| [ Google Drive  ]https://drive.google.com/drive/folders/1BGmOO6FRNOFIFrdCLdFXP1RH8SrT9jq1()   	| ?         	|
+
 Notes:
 1-All of the roms here works for : Moto G fast/Moto G8/Moto G Power/Moto G8 Power/Moto G Stylus/Moto G Pro
 2-Meaning of the Outdated and ? , Outdated = not updated to last november security patch , ? = i dont know if the rom will be maintained
